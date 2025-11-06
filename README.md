@@ -77,6 +77,10 @@ The model demonstrates effective learning and generalization ability on the data
 ```python
 Input: { age: 67, hypertension: 1, bmi: 30.5, avg_glucose_level: 120.3 }
 Predicted Output: Stroke Risk = 0.78 (High)
+
+
+## 📂 Repository Structure
+
 DL_Project_Cerebral_Stroke/
 │
 ├── data/                     # Dataset used for training and testing
